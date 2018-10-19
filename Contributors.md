@@ -154,6 +154,7 @@ Arnel Forbes
 - [KaranRandhir](https://github.com/KaranRandhir)
 - [RukkiesMan](https://github.com/rukkiesman)
 - [Nicholas Carnival](https://github.com/majorderp4)
+- [Erik Zocher](https://github.com/frometor)
 - [Nick Foley](https://github.com/foleyn2)
 - [Roni Yusuf Manalu](https://github.com/rymanalu)
 - [ShubU](http://github.com/shubu)
